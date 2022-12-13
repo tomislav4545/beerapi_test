@@ -14,3 +14,12 @@ router.render = (req, res) => {
     data: res.locals.data
   })
 }
+
+  if (req.url === '/posts') {
+    res.jsonp({
+      data: res.locals.data
+    })
+  } else {
+    res.jsonp(res.locals.data)
+  }
+}
