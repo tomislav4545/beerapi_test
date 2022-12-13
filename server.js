@@ -11,6 +11,6 @@ server.listen(port);
 
 router.render = (req, res) => {
   res.jsonp({
-    beer: res.locals.data
+    data: res.locals.data
   })
 }
