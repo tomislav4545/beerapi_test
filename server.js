@@ -9,9 +9,12 @@ server.use(router);
 
 server.listen(port);
 
-router.render = (req, res) => {
-  res.jsonp({
-    data: res.locals.data
-  })
+router.render = function (req, res) {
+  if (req.method === 'GET' && !req.params.id) {
+    var obj = {}
+    obj[req.params.resource] = res.locals.data
+    res.jsonp(obj)
+  } else {
+    res.jsonp(res.locals.data)
+  }
 }
-
