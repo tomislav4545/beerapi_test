@@ -15,9 +15,10 @@ router.render = (req, res) => {
   })
 }
 
+router.render = function (req, res) {
   if (req.url === '/posts') {
     res.jsonp({
-      data: res.locals.data
+      posts: res.locals.data
     })
   } else {
     res.jsonp(res.locals.data)
