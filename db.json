@@ -863,6 +863,883 @@
       "desc": "Blonde ale \"Mihovil\" koji je postigao najbolju ocjenu među vjernim kušačima je i nekakav uvod da se ljudi u Šibeniku naviknu na ale piva. Pivo je blagog okusa, ima 5,3 % alkohola, IBU 18 i EBC 12. Voda je iz Krke, ječam domaći iz Nove Gradiške, hmelj iz Slovenije i Češke, a kvasac ispiru i ponovo koriste što je bolje za samo pivo. Refermentirano je u boci.",
       "image_url": "https://www.promili.hr/web/image/product.product/1778/image_1024/%5B10624%5D%20%C5%A0ibenska%20Pivovara%20Mihovil?unique=c54c6d5",
       "id": 144
+    },
+    {
+      "name": "5Th Element Aba Ale pivo",
+      "desc": "Prvo u liniji specijalnih piva je American Blonde Ale, spravljeno u stilu piva koje karakterizira vrlo visoka pitkost s intenzivnom voćnom aromom specijalnih američkih hmeljeva sorti CENTENNIAL, CASCADE i CHINOOK. Zbog upotrebe posebne vrste kvasca gornjeg vrenja (ALE kvasac) simbolizira ga element VATRA.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/4001-5000/4434/main/1b96-6219-0-2-800x1200.jpg",
+      "id": 145
+    },
+    {
+      "name": "5Th Element Aba Ale pivo",
+      "desc": "Prvo u liniji specijalnih piva je American Blonde Ale, spravljeno u stilu piva koje karakterizira vrlo visoka pitkost s intenzivnom voćnom aromom specijalnih američkih hmeljeva sorti CENTENNIAL, CASCADE i CHINOOK. Zbog upotrebe posebne vrste kvasca gornjeg vrenja (ALE kvasac) simbolizira ga element VATRA.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2237/main/3af1-010021-0-2-800x1200.jpg",
+      "id": 146
+    },
+    {
+      "name": "5Th Element Gerweisse",
+      "desc": "Kada VATRA dodirne ZEMLJU, naizgled uništava sve što je na njoj ali sjeme, oslobođeno toplinom, nezaustavljivo se usmjerava prema nebu. Ova smo dva elementa, karakteristična za ljetne vrućine, spojili u osvježavajuće i aromatično ljetno, pšenično pivo njemačkog stila. Kombinacija četiriju vrsta slada među kojima dominira pšenični, u najboljoj maniri predstavlja ZEMLJU dok specijalni soj kvasca gornjeg vrenja poput VATRE iz pšeničnog slada pred Vas stavlja prepoznatljivu aromu pravog, njemačkog pšeničnog piva.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2200/main/b6a5-3355-0-2-800x1200.jpg",
+      "id": 147
+    },
+    {
+      "name": "5Th Element Ipa",
+      "desc": "Ovo istinski moćno pivo spravljeno je u stilu Imperial India Pale Ale piva. Karakterizira ga intenzivna hmeljna aroma i gorčina koja vrlo dobro prikriva snagu alkohola. Zbog jedinstvene recepture koju simbolizira svo iskustvo majstora pivara Pivovare Daruvar u pravom je smislu riječi LJUBAV pretvorena u pivo, a zbog upotrebe veće količine posebnih sorti američkih hmeljeva za suho hmeljenje u ovom je pivu objedinjen još jedan element - ZRAK tako da ovo pivo zaokružuje koncept 5thELEMENT linije.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2247/main/3de4-010186-0-2-800x1200.jpg",
+      "id": 148
+    },
+    {
+      "name": "5Th Element Ipa pivo",
+      "desc": "Ovo istinski moćno pivo spravljeno je u stilu Imperial India Pale Ale piva. Karakterizira ga intenzivna hmeljna aroma i gorčina koja vrlo dobro prikriva snagu alkohola. Zbog jedinstvene recepture koju simbolizira svo iskustvo majstora pivara Pivovare Daruvar u pravom je smislu riječi LJUBAV pretvorena u pivo, a zbog upotrebe veće količine posebnih sorti američkih hmeljeva za suho hmeljenje u ovom je pivu objedinjen još jedan element - ZRAK tako da ovo pivo zaokružuje koncept 5thELEMENT linije.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/4001-5000/4436/main/6f6b-6221-0-2-800x1200.jpg",
+      "id": 149
+    },
+    {
+      "name": "5Th Element Lela",
+      "desc": "Jedinstveni spoj dva pivska stila Alea i Lagera daje ovom pivu sve najbolje od oba stila i čini ga laganim kao i element kojim je simboliziran - VODA. Ale pivo dodaje blage hmeljno/esterske arome koje ima samo pivo fermentirano na višoj temperaturi dok lager pivo daje osnovno tijelo i svježinu ovoj jedinstvenoj pivskoj kupaži.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2201/main/ed82-010020-0-2-800x1200.jpg",
+      "id": 150
+    },
+    {
+      "name": "5Th Element Stout",
+      "desc": "Pivo izrazito crne boje koje u potpunosti naglašava dubinu ZEMLJE iz koje ječam preuzima svoje arome. Karakterizira ga intenzivna aroma kave i crne čokolade koju nakon ispijanja upotpunjuju gorčina hmelja i aroma cikorije. Povećani sadržaj alkohola ovog FOREIGN EXTRA STOUTA dobro je balansiran sa sladnim aromama i čini ovo pivo okrepljujućim, osobito ako se dijeli.\nKompleksnost ovog piva u potpunosti odražava strast koja je osnova 5th ELEMENT linije. U nazivu STOUT 4.2 (For Two) krije se poziv na dijeljenje ovog piva s dragim osobama. Stoga vas pozivamo da dijelite našu strast s dragom osobom jer ovo je pivo spravljeno da povezuje prave ljubitelje piva.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2248/main/159a-3356-0-2-800x1200.jpg",
+      "id": 151
+    },
+    {
+      "name": "Affligem Blonde",
+      "desc": "Affliegm je legendarno belgijsko samostansko pivo. Proizvodi se po izvornoj recepturi benediktinskih redovnika iz 1074. godine, usavršenoj uz pomoć modernih tehnologija. Affligem se odlikuje snažnijim okusom i bogatijom aromom. To je rezultat dvostruke fermentacije koja nastaje tako što se u svaku bocu prije zatvaranja ponovno dodaju kvasac i šećeri. Zlatnožuti Affligem Blonde je harmoničan i nježan, prožet žitaricama i zaokružen blagim okusom tropskog voća. Manje primjetne note banane daju mu suh i lagano gorak završni okus.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/4001-5000/4627/main/324e-010024-0-2-800x1200.jpg",
+      "id": 152
+    },
+    {
+      "name": "Angeluš lager",
+      "desc": "Angeluš - Lager je pitko i osvježavajuće pivo izraženih aroma biskvita, tosta, začina i cvijeća",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/4001-5000/4144/main/20ea-6089-0-2-800x1200.jpg",
+      "id": 153
+    },
+    {
+      "name": "Angeluš Pale ale",
+      "desc": "Angeluš Pale ale, suho, hmeljeno ale pivo intenzivnih aroma tropskog i citrusnog voća.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/4001-5000/4142/main/93e3-6090-0-2-800x1200.jpg",
+      "id": 154
+    },
+    {
+      "name": "Angeluš Porter",
+      "desc": "Angeluš - Porter je tamno ale pivo intenzivnih aroma kave, čokolade i bobičastog voća",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/4001-5000/4143/main/28e2-6091-0-2-800x1200.jpg",
+      "id": 155
+    },
+    {
+      "name": "Asahi svijetlo lager pivo",
+      "desc": "Kada je Asahi Super Dry prvi put stvoren 1987. godine, redefinirao je kategoriju piva i ponudio svijetu novi okus piva. Karakuchi je japanska riječ koja bilježi složenost jedinstvenog i osvježavajućeg okusa Asahi Super Dry. Iako je naziv nemoguće prevesti, ono odražava suhi karakter autentičnog japanskog piva, s karakteristično brzim i čistim završetkom.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/4001-5000/4785/main/06a4-7856-0-2-800x1200.jpg",
+      "id": 156
+    },
+    {
+      "name": "Ayinger Bräuweisse",
+      "desc": "Klasik među njemačkim svijetlim pšeničnim pivima, višestruko nagrađivan. Uz lagane note pšeničnog slada, kvasac stvara čaroliju ovog piva, noseći note banane, cvjetnost, vaniliju. Tijelo mu je puno, ali živahna mu pjenušavost donosi pitkost. Osvježavajuće, ukusno, kompleksno i prepoznatljivo.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/3001-4000/3762/main/b078-5215-0-2-800x1200.jpg",
+      "id": 157
+    },
+    {
+      "name": "Baltazar",
+      "desc": "Svijetli zahmeljeni lager voćne arome s laganom gorčinom hmelja od 45 IBU-a. Za ovaj neobični lager korišteni su hmeljevi Simcoa, Citra te Mandarine Bavaria.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2204/main/07cf-010172-0-2-800x1200.jpg",
+      "id": 158
+    },
+    {
+      "name": "Baltazar",
+      "desc": "Svijetli zahmeljeni lager voćne arome s laganom gorčinom hmelja od 45 IBU-a. Za ovaj neobični lager korišteni su hmeljevi Simcoa, Citra te Mandarine Bavaria.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/4001-5000/4230/main/9c33-6107-0-2-800x1200.jpg",
+      "id": 159
+    },
+    {
+      "name": "Bavaria bezalkoholno svijetlo pivo",
+      "desc": "Bavaria je pitko i svježe Pilsner pivo za čiju proizvodnju se koriste samo prirodni sastojci: svježa voda s vlastitog izvora, ječmeni slad iz vlastite sladare te hmelj uzgojen od probranih nizozemskih poljoprivrednika.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2172/main/2486-01124-0-2-800x1200.jpg",
+      "id": 160
+    },
+    {
+      "name": "Bavaria Premium svijetlo pivo",
+      "desc": "Bavaria je pitko i svježe Pilsner pivo za čiju proizvodnju se koriste samo prirodni sastojci: svježa voda s vlastitog izvora, ječmeni slad iz vlastite sladare te hmelj uzgojen od probranih nizozemskih poljoprivrednika.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2171/main/bbaa-01055-0-2-800x1200.jpg",
+      "id": 161
+    },
+    {
+      "name": "Bavaria svijetlo pivo",
+      "desc": "Bavaria je pitko i svježe Pilsner pivo za čiju proizvodnju se koriste samo prirodni sastojci: svježa voda s vlastitog izvora, ječmeni slad iz vlastite sladare te hmelj uzgojen od probranih nizozemskih poljoprivrednika.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2148/main/9dd0-0152-0-2-800x1200.jpg",
+      "id": 162
+    },
+    {
+      "name": "Beck's svijetlo pivo",
+      "desc": "Beck`s je beskompromisno pivo koje poštuje njemačku tradiciju proizvodnje koja je u skladu s Zakonom o čistoći piva iz 1516. godine, poznatom i kao „Reinheitsgebot”. Proizvodi se isključivo od hmelja, ječma i vode.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2143/main/02ef-01183-0-2-800x1200.jpg",
+      "id": 163
+    },
+    {
+      "name": "Bernard Celebration Lager",
+      "desc": "Bernard Celebration je svijetlo, nepasterizirano specijalno Lager pivo s finim kvascima, iznimnog okusa i aroma. Pošto je ovo pivo sekundarno fermentirano u boci, na dnu boce se može naći sediment kvasca, koji može proizvesti lagano zamućenje tijekom konzumacije piva.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/3001-4000/3765/main/2e4d-01937-0-2-800x1200.jpg",
+      "id": 164
+    },
+    {
+      "name": "Bernard Dark Lager",
+      "desc": "Bernard Dark je tamno, nepasterizirano i nefiltrirano specijalno Lager pivo s finim kvascima, proizvedeno od četiri različite vrste ječmenog slada. Karakteristična aroma, punoća okusa i ugodna gorčina čine ovo pivo jedinstvenim na svjetskom tržištu tamnih lager piva.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/3001-4000/3766/main/e9d3-01938-0-2-800x1200.jpg",
+      "id": 165
+    },
+    {
+      "name": "Blue Moon",
+      "desc": "Pšenično, nefiltrirano pivo spravljeno po belgijskoj recepturi. Proizvedeno uz dodatak korijandera i narančine korice s dodatkom zobi za glatki, kremasti okus. Poslužuje se uz s krišku naranče kao bi se naglasila citrusna aroma.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2235/main/3ea4-01948-0-2-800x1200.jpg",
+      "id": 166
+    },
+    {
+      "name": "Brewdog Hazy Jane",
+      "desc": "Ovo pivo je voćna \"mašina\" s punim profilom IPA-e, ali s nešto manje alkohola. Dominiraju note ananasa, manga, koštunjavog voća, te dašak mandarine da začini sve. Vareno sa zobi i pšenicom, nefiltrirano, za pitki sočni zgoditak.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/3001-4000/3761/main/d6e2-5214-0-2-800x1200.jpg",
+      "id": 167
+    },
+    {
+      "name": "Budweiser svijetlo pivo",
+      "desc": "Ovo premium lager pivo proizvedeno je isključivo od najfinijih sastojaka - vrhunskih šišarki hmelja iz Saaza, biranog moravskog ječmenog slada te posebne originalne kulture kvasca i izvorske vode iz tristo metara dubokih arteških bunara.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2178/main/9fee-0117-0-2-800x1200.jpg",
+      "id": 168
+    },
+    {
+      "name": "Bura Hurricane Ipa pivo",
+      "desc": "HURRICANE IPA : Pivo gornjega vrenja u IPA stilu, lagana i osvježavajuća zahvaljujući umjerenom udjelu alkohola (5 %) no istovremeno kompleksna i ugodno aromatična zbog velike količine hmelja upotrijebljene i prilikom kuhanja i prilikom primjene metode hmeljenja dry hopping. Bijele, kremaste i postojane pjene. Laganog do umjerenog tijela. Lagana gaziranost. Za razliku od Bura Brew TORNADO IPA – ISTRIAN PALE ALE (obiluje hmeljem ali i značajnim udjelom slada), kod HURRICANE IPA prevladava značajnija i veća količina hmelja iz kojeg proizlaze note zelenila i tropskoga voća čime se postiže uragan okusa, s produljenom i odlučnom završnom gorčinom.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/4001-5000/4514/main/caa4-7566-0-2-800x1200.jpg",
+      "id": 169
+    },
+    {
+      "name": "Bura Optimist Golding Ale pivo",
+      "desc": "OPTIMIST GOLDING ALE : Pivo vareno u Golden Ale stilu, odnosno pivo gornjega vrenja, od ječmenoga slada, s malim udjelom pšeničnoga slada te mješavinom slovenskih hmelja, od kojih se ističe Styrian Golding. Zlatne i hotimice neprozirne boje, s profinjenom i postojanom pjenom. U ustima se nazire blago začinjen okus agruma i voćne arome koja proizlazi iz estera prema zahtjevu i želji majstora pivara. Svježe, pitko i uravnoteženo, ističe se po svojoj suhoći i blagoj, prijatnoj gorčini pri završetku koja potiče na ponovo ispijanje. OPTIMIST je jedrilica za pomladak koji uči jedriti: lagana, prilično brza i može stići gdjegod je vjetar nosi.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/4001-5000/4516/main/e0ec-7567-0-2-800x1200.jpg",
+      "id": 170
+    },
+    {
+      "name": "Bura Redsand Amber Ale pivo",
+      "desc": "REDSAND AMBER ALE : Jantarne boje, pivo gornjega vrenja u stilu irskog Red Ale piva. Zavodljiva okusa, vareno od 4 vrste ječmenoga slada, s malim udjelom pšeničnoga slada, mješavine slovenskih i američkih hmelja i kvasca. Pitko, ali istaknute punoće tijela, lagane gorčine na prvi dojam, no prema završetku postaje slatko. S osobitim okusom slada, osjeća se nota egzotičnoga voća i pri završetku jako diskretna i ugodna nota sladića. Srednje gazirano i kremastoga okusa u ustima. Pivo crvene jantarne boje kao istarska crvenica i stoga se naziva REDSAND.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/4001-5000/4517/main/93b9-7568-0-2-800x1200.jpg",
+      "id": 171
+    },
+    {
+      "name": "Bura Terra Magica Stout pivo",
+      "desc": "TERRA MAGICA : Terra Magica tamno pivo je gornjega vrenja, stout stila. Pivo je rađeno na solidnoj mješavini klasičnog i tamnog slada. Uz ove sastojke pridodaje se zob i laktoza čime se postiže uravnotežen sklad. Terra Magica podatno zaokružuje svilenkast okus Oatmeal Stouta, odnosno zobi sa suptilnom slatkoćom laktoze Milk Stouta, istovremeno stvarajući iznimno pitko tamno pivo s 5,5 % alkohola. Pivo je zamišljeno kao savršeno uravnotežen stout koje će ugodno iznenaditi i one uvjerene da nikad neće uživati u tamnom pivu.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/4001-5000/4518/main/96bb-7569-0-2-800x1200.jpg",
+      "id": 172
+    },
+    {
+      "name": "Bura Tornado Ipa pivo",
+      "desc": "TORNADO IPA - ISTRIAN PALE ALE : Pivo gornjega vrenja u IPA stilu. Istarska obrada (Istrian Pale Ale) piva Indian Pale Ale (britanski stil) proizvedenoga od ječmena slada, s malim udjelom pšenice, mješavinom američkih hmelja koji daruju intenzivan i zanimljiv miris čemu pridonosi znatna količina hmelja dodana metodom dry hopping hmeljenja. Jantarne boje s obilnom, kremastom i postojanom pjenom, miris hmelja podsjeća na egzotično voće, agrume i cvijeće, dok se u ustima nastavlja nota koja proizlazi iz hmelja koju podupire srednje tijelo. Zatvara se blagom gorčinom koja podsjeća na koru grejpa. Ovo IPA pivo nije fokusirano samo na hmelj (East Kent Golding, Chinook i Amarillo) već i na ječmeni slad (3 različite vrste osebujnoga ječma). Rezultat je TORNADO okus.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/4001-5000/4515/main/4f5e-7570-0-2-800x1200.jpg",
+      "id": 173
+    },
+    {
+      "name": "Čakovečko pivo",
+      "desc": "Izuzetno pitak i lagan pilsner, čistih i balansiranih aroma. Za vruć ljetni dan. Etiketom odana počast našem gradu, Čakovcu, gradu skrivenih legendi i jednom zmaju, naravno.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/4001-5000/4154/main/dbc2-6012-0-2-800x1200.jpg",
+      "id": 174
+    },
+    {
+      "name": "Carlsberg svijetlo pivo",
+      "desc": "Carlsberg je internacionalno premium pivo iznimne kvalitete i prepoznatljiva okusa koje se proizvodi od vode, hmelja, slada i posebne vrste kvasca saccharomyces carlsbergensis.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/4001-5000/4082/main/0983-5292-0-2-800x1200.jpg",
+      "id": 175
+    },
+    {
+      "name": "Carlsberg svijetlo pivo",
+      "desc": "Carlsberg je internacionalno premium pivo iznimne kvalitete i prepoznatljiva okusa koje se proizvodi od vode, hmelja, slada i posebne vrste kvasca saccharomyces carlsbergensis.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2174/main/d5c9-01295-0-2-800x1200.jpg",
+      "id": 176
+    },
+    {
+      "name": "Chimay Blue",
+      "desc": "Tamno Trappist pivo jakih aroma i kompleksnog okusa, koji se razvija tijekom godina odležavanja. Autentično je belgijsko pivo, relativno suho i s notom karamele, sa svježim kvascem koji pivu daje osobito ugodan, lagani cvjetni dodir.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/3001-4000/3768/main/aba6-01858-0-2-800x1200.jpg",
+      "id": 177
+    },
+    {
+      "name": "Chimay Red",
+      "desc": "Chimay Red je najstarije Chimay pivo (1862.). Ovo posebno trapističko pivo ima kremastu pjenu i krasnu bakrenu boju. Lagani, voćni miris marelice potječe od fermentacije, a aroma koja se osjeća u ustima potvrđuje sklad voćnih nota i nježnog dodira gorčine.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/3001-4000/3769/main/bd0a-5217-0-2-800x1200.jpg",
+      "id": 178
+    },
+    {
+      "name": "Corona Extra svijetlo pivo",
+      "desc": "Corona Extra je pivo proizvedeno i punjeno isključivo u Meksiku od samog predstavljanja 1925. godine. Nalazi se na petom mjestu najprodavanijih piva na svijetu, te oduševljava svoje potrošače diljem svijeta specifičnim načinom konzumiranja - poslužuje se s kriškom limete.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2231/main/eb40-01531-0-2-800x1200.jpg",
+      "id": 179
+    },
+    {
+      "name": "Crna Kraljica tamno pivo",
+      "desc": "Jače zahmeljeno crno pivo s karakterističnim okusom i aromom po tamnom, prženom sladu.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2199/main/b109-01997-0-2-800x1200.jpg",
+      "id": 180
+    },
+    {
+      "name": "Crni Jack",
+      "desc": "Zahvaljujući prženom sladu i četiri vrste hmelja, ova crna IPA na prvu će osvojiti obožavatelje tamne čokolade i kave, ali i one koji uživaju u voćnim, hmeljnim aromama. Crni Jack je dobro izbalansirano i pitko pivo u kojem će se naći svaki ozbiljniji pivopija.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/4001-5000/4229/main/1c78-4981-0-2-800x1200.jpg",
+      "id": 181
+    },
+    {
+      "name": "Delirium Tremens",
+      "desc": "Popularni „ružičasti slon“ Delirium Tremens je jako, svijetlo Ale pivo fine i stabilne pjene, začinjeno i lagano sladno, s alkoholnim dodirom koji zagrijava nepce. Vrlo zaokruženo s jakim i dugotrajnim gorkastim i suhim završetkom.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/3001-4000/3770/main/2959-5218-0-2-800x1200.jpg",
+      "id": 182
+    },
+    {
+      "name": "Desperados svijetlo pivo",
+      "desc": "Pivo s okusom tekile. Vrlo osvježavajuće, zlatne boje i bogato lager pivo.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2187/main/eb79-01098-0-2-800x1200.jpg",
+      "id": 183
+    },
+    {
+      "name": "Devetka Craft American Pale Ale",
+      "desc": "Pivski stil koji je promijenio sve. Pivo koje je najviše food frendly. Osvježavajuće svjetlo pivo, s izraženim aromama američkih hmeljeva, dobro izbalansirano, osvježavajuće i nevjerojatno pitko. Prirodno i nefiltrirano pivo.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/3001-4000/3861/main/d70e-5081-0-2-800x1200.jpg",
+      "id": 184
+    },
+    {
+      "name": "Devetka Craft Belgian Pale Ale",
+      "desc": "Devetka Craft Belgian Pale Ale",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/3001-4000/3863/main/f547-5083-0-2-800x1200.jpg",
+      "id": 185
+    },
+    {
+      "name": "Devetka Craft Hoppy Red Ale",
+      "desc": "Uzmite pržene i blage slatke karamelne note pažljivo probranih sladova. Uravnotežite ih aromama biljnog i citrusnog hmelja. Što ćete dobiti? Hoppy Red Ale! Pivo predivne rubin boje. Iako se odlikuje svom puninom gorčine, nevjerojatno dobro pristaje svakoj hrani. No ni sam po sebi nikoga neće ostaviti ravnodušnim.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/3001-4000/3864/main/e642-5084-0-2-800x1200.jpg",
+      "id": 186
+    },
+    {
+      "name": "Devetka Craft Porter",
+      "desc": "Čokolada i blagi okusi karamele upotpunjeni su nježnim aromama kave i tamnih sladova, zahvaljujući čemu će ovaj porter biti iznimno pitak i savršeno pristajati svakom trenutku.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/3001-4000/3862/main/57c1-5082-0-2-800x1200.jpg",
+      "id": 187
+    },
+    {
+      "name": "Dva Klasa pšenično pivo",
+      "desc": "Pšenično mutno pivo specifičnog mirisa i okusa koji potječu od pšeničnog slada.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2190/main/e291-01996-0-2-800x1200.jpg",
+      "id": 188
+    },
+    {
+      "name": "Erdinger Brauhaus Helles lager pivo",
+      "desc": "Kvaliteta bez kompromisa: sada i oduvijek u Erdingu! Werner Brombach i njegovi majstori pivari uvijek su kuhali pivo odabirući pomno izabrane sastojke uz vrhunsku vještinu i veliku strast – sve iz ljubavi prema pivu. Nije nikakvo iznenađenje da je majstorska kvaliteta Erdingera top prioritet i za novi Erdinger Brauhaus Helles. Okus majstorske kvalitete: Erdinger Brauhaus Helles ima glatki karakter i visokokvalitetne sastojke. Predivno blag, najbolje ga je piti na 8 stupnjeva. Erdinger Brauhaus Helles pivo je donjeg vrenja.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/4001-5000/4418/main/2eb6-7394-0-2-800x1200.jpg",
+      "id": 189
+    },
+    {
+      "name": "Erdinger Pikantus tamno pivo",
+      "desc": "Boja čokolade i kave pri točenju; velika planina svjetlosmeđe pjene koja nastaje zbog tamnog slada i protresenog kvasca u boci. Aroma sjajno balansira između okusa slada i kvasca. Osjeća se i aroma začina; ugodno je jaka, ali ne i previše jaka.\nPrvi nekoliko gutljaja zagolicat će jezik zbog gaziranosti. Ustanovit ćete da ima okus po suhom voću, grožđu i nijansu klinčića. Kako se čaša prazni, pjena se lijepo zadržava na stijenkama. Cijelo vrijeme dok uživate u pivu, rubovi jezika i nepce impresionirani su laganim kremastim okusom. Okus se zadržava i ubrzo se mijenja u okus suhih marelica i blagi okus alkohola.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2244/main/4415-01255-0-2-800x1200.jpg",
+      "id": 190
+    },
+    {
+      "name": "Erdinger Urweisse pšenično pivo",
+      "desc": "Tradicionalni recept koji se već godinama prenosi s koljena na koljeno tajna je pšeničnog piva ERDINGER Urweisse, s tipičnom aromom zrelih banana i klinčića. Recept potječe još iz vremena osnivanja pivovare 1886. godine. ERDINGER Urweisse pravi se od posebno odabranog karamelastog slada, kao i od različitih vrsta kvasca gornjeg vrenja i aromatičnog hmelja. Ovo pivo premium okusa privlači pozornost svojom tamnom jantarnom bojom.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2230/main/aeae-3886-0-2-800x1200.jpg",
+      "id": 191
+    },
+    {
+      "name": "Erdinger Weissbier pšenično bezalkoholno pivo",
+      "desc": "Intenzivno zamućeno uslijed djelovanja kvasca, s dojmljivom pjenom koja ispunjava čašu. Pjena doista sjajno izgleda – bogata je i nakon nekoliko minuta i dojmljivo kremasta. Ostaje stabilna čak i kad se znatno smanji i kad od nje ostanu čipkasti krugovi. Po svojem izgledu, ERDINGER Weissbier Alkoholfrei ne razlikuje se od poznatih pšeničnih piva koja sadrže alkohol.\nAroma vuče na blagu pšenicu s nagovještajima pečenog kruha i klinčića. Za razliku od većine bezalkoholnih svijetlih lagera i ponekih bezalkoholnih jantarnih lagera, ovaj bezalkoholni Weissbier najbolji je izbor zahvaljujući svojem esterastom kvascu i ima slastan okus koji nijedno drugo bezalkoholno pivo nema. Okus u ustima je lagan do srednji, pšeničan, ugodan, sa savršeno ukomponiranom gaziranošću.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2188/main/5944-01199-0-2-800x1200.jpg",
+      "id": 192
+    },
+    {
+      "name": "Erdinger Weissbier pšenično pivo",
+      "desc": "Erdinger Weissbier nije samo neupitni klasik u asortimanu Erdinger, to je također vrlo jednostavno pšenično pivo u pravom smislu riječi.\nSamo najfiniji sastojci se koriste u proizvodnji. Godine iskustva i stalne provjere kvalitete jamče pivu nepogrešiv okus.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2184/main/2102-4414-0-2-800x1200.jpg",
+      "id": 193
+    },
+    {
+      "name": "Erdinger Weissbier pšenično pivo",
+      "desc": "Mutna, svježa i blistava žuta boja sa svijetlom bijelom pjenom koja se dobro drži. Aroma je svježa, s finim cvjetnim nijansama. Tijelo je srednje lagano, u kombinaciji s dobrom razinom prirodne gaziranosti koja daje slastan, kremast okus u ustima. Okus je slatkast na početku, s dosta izraženom gaziranošću. Na sredini nepca osjeti se nota agruma. Završetak donosi ugodni okus hmelja i gorčine, ostavljajući svjež, čist okus u ustima. Prepoznatljiv po nijansi agruma i vrlo osvježavajući.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2228/main/0d73-01062-0-2-800x1200.jpg",
+      "id": 194
+    },
+    {
+      "name": "Erdinger Weissbier pšenično pivo",
+      "desc": "Erdinger Weissbier nije samo neupitni klasik u asortimanu Erdinger, to je također vrlo jednostavno pšenično pivo u pravom smislu riječi.\nSamo najfiniji sastojci se koriste u proizvodnji. Godine iskustva i stalne provjere kvalitete jamče pivu nepogrešiv okus.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2153/main/72ae-01195-0-2-800x1200.jpg",
+      "id": 195
+    },
+    {
+      "name": "Erdinger Weissbier tamno pšenično pivo",
+      "desc": "Ovo veličanstveno tamno pivo ima bogatu, kremastu pjenu koja je isprva velika, a zatim se lijepo slegne u čaši. Diskretna aroma oraha i slada kombinirana je s delikatnom gorčinom. Dobro uravnoteženi slatkasti okus i ugodna svježina. Kompleksno, ali ne i arogantno. Diskretna aroma oraha i slada kombinirana je s delikatnom gorčinom.\nGaziranost obuzima jezik tijekom završetka, izlažući usta čitavom rasponu tekstura. Ovo sjajno pivo puno je kontradikcija – tamno je, a slano i osvježavajuće; pšenično je, a kompleksno i puno aroma; dobro je kako za lagano otpijanje, tako i za taženje žeđi. Mami vas da popijete još jedno!",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2223/main/231f-01156-0-2-800x1200.jpg",
+      "id": 196
+    },
+    {
+      "name": "Fakin Ipa",
+      "desc": "Svijetli ale bogatog okusa, prekrasne boje i pripitomljene gorčine. Kuha se od tri vrste slada i tri vrste hmelja, a neodoljiva aroma i ugodna gorčina 70 IBU-a postiže se suhim hmeljenjem.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2205/main/94d5-01965-0-2-800x1200.jpg",
+      "id": 197
+    },
+    {
+      "name": "Franziskaner pšenično pivo",
+      "desc": "Svijetlo pšenično, mutno, nefiltrirano pivo. Pasterizirano.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2229/main/98be-3383-0-2-800x1200.jpg",
+      "id": 198
+    },
+    {
+      "name": "Fulir svijetlo pivo",
+      "desc": "Fulir je pilsner njemačkog stila, vrlo svijetle boje, laganog tijela s naglašenim aromama i blagom gorčinom plemenite sorte hmelja",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2196/main/94d9-02010-0-2-800x1200.jpg",
+      "id": 199
+    },
+    {
+      "name": "Gardia bezglutensko pivo",
+      "desc": "Gardia Lager je piva bez glutena, pitka i ukusna, umjerenog tijela, izbalansirane gorčine, te laganog osvjezavajućeg after-tastea. Sadrži 4,7% alk. i <3ppm glutena sto ju čini pogodnom za celijakičare.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/3001-4000/3462/main/2912-4572-0-2-800x1200.jpg",
+      "id": 200
+    },
+    {
+      "name": "Grička Vještica tamno pivo",
+      "desc": "Jaki tamni lager, nježne rubin crvene boje. Okus lagan, aromatičan, bogate fine slatkoće i ugodne arome",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2189/main/ae23-01994-0-2-800x1200.jpg",
+      "id": 201
+    },
+    {
+      "name": "Grička Vještica tamno lager pivo",
+      "desc": "Grička Vještica jaki je tamni lager, nježne rubin crvene boje. Okus mu je lagan, aromatičan, bogate, fine slatkoće i ugodne arome. Kvaliteta se postiže dugim odležavanjem. Ime je dobila po legendi - Gričkoj vještici, koja je svojom ljepotom očarala stanovnike starog Zagreba.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2221/main/1d69-010128-0-2-800x1200.jpg",
+      "id": 202
+    },
+    {
+      "name": "Grif Pale Ale",
+      "desc": "Pitko i osvježavajuće pivo, zlatno žute boje s čvrstom pjenom i ugodnim aromama hmelja. Ključni sastojak je Citra, hmelj jakih citrusnih nota i aroma tropskog voća i grejpa.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2245/main/6dce-3875-0-2-800x1200.jpg",
+      "id": 203
+    },
+    {
+      "name": "Grif Stout",
+      "desc": "Oatmeal Stout je crno pivo gornjeg vrenja oplemenjeno dodatkom zobenih pahuljica koje ovoem stoutu daju bogatstvo i punoću okusa. Dominiraju arome prženih sladova i prženog ječma koje asociraju na kavu, čokoladu i karamelu. Pjena kremaste boje krasi ovu crnu ljepoticu poput krune.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/3001-4000/3580/main/b2db-4926-0-2-800x1200.jpg",
+      "id": 204
+    },
+    {
+      "name": "Grimbergen Blanche pšenično pivo",
+      "desc": "\"Weiss\" pivo belgijskog stila i tradicije, svijetložutih tonova i glatke kremaste pjene. Njegov osvježavajući okus nastaje kombinacijom žutog voća, limuna, klinčića, korijandera i bergamota.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2216/main/b7a0-01957-0-2-800x1200.jpg",
+      "id": 205
+    },
+    {
+      "name": "Grimbergen Blonde svijetlo pivo",
+      "desc": "Svijetlo i iznimno pitko ale pivo s okusom zrelog žutog voća i pikantnim notama klinčića, koje se ističe gustom pjenom kremaste boje. Jedinstvenim ga čini kombinacija slatkog korijena, ananasa, marelica i žutih šljiva",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2210/main/decf-01956-0-2-800x1200.jpg",
+      "id": 206
+    },
+    {
+      "name": "Grimbergen Double Ambree tamno pivo",
+      "desc": "Ale pivo tamnije boje i slatko-kiselog okusa karamele i sušenih šljiva, nastalo dvostrukom fermentacijom nekoliko vrsta hmelja i slada. Ovo tamno pivo odlikuje se suptilnim tonovima rubin crvene boje te bogatom kremastom pjenom.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2219/main/122b-01958-0-2-800x1200.jpg",
+      "id": 207
+    },
+    {
+      "name": "Gulden Draak",
+      "desc": "„Zlatni zmaj“ duguje ime pozlaćenom kipu s vrha zvonika u belgijskom gradu Ghentu, koji je nekad služio kao „čuvar“ gradskih dokumenata, te simbol slobode i moći grada. U čast njemu je pivovara Van Steenberge proizvela ovo, danas vrlo popularno pivo gornje fermentacije s refermentacijom u boci. Popularnosti ovog piva pridonosi i jedinstvena bijela bočica s crnom etiketom. Ovo jako, tamno pivo ima vrlo kompleksan okus s notama karamele, prženog slada i kave u kombinaciji s kremoznom pjenom boje lješnjaka.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/3001-4000/3771/main/c898-01856-0-2-800x1200.jpg",
+      "id": 208
+    },
+    {
+      "name": "Gulden Draak 9000 Quadruple",
+      "desc": "Nakon 25 godina uspjeha nenadmašnog tamnog „Zlatnog zmaja“ bijele bočice, proizveden je i ovaj jantarni „Zlatni zmaj“ crne bočice. Radi se o pivu gornje fermentacije s refermentacijom u boci, za što se koristi vinski kvasac, što uz 3 vrste ječmenog slada uvelike pridonosi bogatom i kompleksnom, voćnom okusu ovoga piva finog „bouquet“-a.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/3001-4000/3772/main/39ce-010011-0-2-800x1200.jpg",
+      "id": 209
+    },
+    {
+      "name": "Heineken 0% svijetlo pivo",
+      "desc": "Heineken je vrhunsko premium pivo prepoznatljivo po izvanrednoj kvaliteti i postojanoj svježini. Bilo gdje na svijetu, proizvodi se po istoj recepturi, a svoj jedinstveni okus duguje posebnoj vrsti kvasca - jedinstvenom Heinekenovom A-kvascu. Heineken je najvrijedniji međunarodni premium pivski brend i dostupan je u gotovo svakoj zemlji svijeta.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2170/main/04b9-010175-0-2-800x1200.jpg",
+      "id": 210
+    },
+    {
+      "name": "Heineken svijetlo pivo",
+      "desc": "Heineken je vrhunsko premium pivo prepoznatljivo po izvanrednoj kvaliteti i postojanoj svježini. Bilo gdje na svijetu, proizvodi se po istoj recepturi, a svoj jedinstveni okus duguje posebnoj vrsti kvasca - jedinstvenom Heinekenovom A-kvascu. Heineken je najvrijedniji međunarodni premium pivski brend i dostupan je u gotovo svakoj zemlji svijeta.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2180/main/97c4-0123-0-2-800x1200.jpg",
+      "id": 211
+    },
+    {
+      "name": "Heineken svijetlo pivo",
+      "desc": "Heineken je vrhunsko premium pivo prepoznatljivo po izvanrednoj kvaliteti i postojanoj svježini. Bilo gdje na svijetu, proizvodi se po istoj recepturi, a svoj jedinstveni okus duguje posebnoj vrsti kvasca - jedinstvenom Heinekenovom A-kvascu. Heineken je najvrijedniji međunarodni premium pivski brend i dostupan je u gotovo svakoj zemlji svijeta.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2149/main/fc4a-01043-0-2-800x1200.jpg",
+      "id": 212
+    },
+    {
+      "name": "Heineken svijetlo pivo",
+      "desc": "Heineken je vrhunsko premium pivo prepoznatljivo po izvanrednoj kvaliteti i postojanoj svježini. Bilo gdje na svijetu, proizvodi se po istoj recepturi, a svoj jedinstveni okus duguje posebnoj vrsti kvasca - jedinstvenom Heinekenovom A-kvascu. Heineken je najvrijedniji međunarodni premium pivski brend i dostupan je u gotovo svakoj zemlji svijeta.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2129/main/b8e7-0137-0-2-800x1200.jpg",
+      "id": 213
+    },
+    {
+      "name": "Hendrix lager pivo",
+      "desc": "Hendrix je pitki i lagani lager sa svega 3,8% alkohola obogaćen egzotičnim hmeljevima Novog Zelanda, idealno je osvježenje za nadolazeće tople dane, iznimno osvježavajuć i pitak. Nastao u čast Hendrixovom mostu.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/4001-5000/4423/main/ed9c-7494-0-2-800x1200.jpg",
+      "id": 214
+    },
+    {
+      "name": "Hladno Pivo",
+      "desc": "Vrlo pitak craft lager, punog tijela, bogate arome i s punk-rock karakterom!",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2202/main/3b6f-4040-0-2-800x1200.jpg",
+      "id": 215
+    },
+    {
+      "name": "Hoegaarden pšenično pivo",
+      "desc": "Autentično belgijsko pivo stvoreno u selu Hoegaarden prije više od 500 godina. Svijetlo pšenično, nefiltrirano pivo, lagano slatkih aroma banane i citrusa.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2234/main/1fe7-01143-0-2-800x1200.jpg",
+      "id": 216
+    },
+    {
+      "name": "Holsten svijetlo pivo",
+      "desc": "Holsten je pivo vrhunske kvalitete spravljeno prema posebnoj njemačkoj recepturi. Zlatno je žute boje, a u njegovom okusu prevladava bogatstvo i slatkoća ječma, uz blagu gorčinu koja u ustima ostaje nakon ispijanja.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2128/main/e602-01562-0-2-800x1200.jpg",
+      "id": 217
+    },
+    {
+      "name": "HP Gold lager pivo",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/4001-5000/4794/main/4bfd-7980-0-2-800x1200.jpg",
+      "id": 218
+    },
+    {
+      "name": "HP Weiss pšenično pivo",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/4001-5000/4793/main/6f9f-7979-0-2-800x1200.jpg",
+      "id": 219
+    },
+    {
+      "name": "Huncut Hoppy svijetlo pivo",
+      "desc": "Huncut je njemački pilsner hmeljen američkim aromatičnim hmeljevima. Pivo ima naglašene arome borovine i citrusa, blago izražene gorčine. Vrlo je lagano i pitko i odlično osvježava.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2222/main/3e23-2138-0-2-800x1200.jpg",
+      "id": 220
+    },
+    {
+      "name": "Istarsko Gold Gambrinus svijetlo pivo",
+      "desc": "Istarsko premium lager, bogatstvo čak pet različitih sorti hmelja i četiri vrste specijalnih sladova pretočeno je u bocu Istarsko Gold premium lager piva. Krase ga izrazita pitkost sa karakterističnom bojom starog zlata. Svijetlo pivo - boje zlata (definirano bojom piva do max.10 EBC jedinica), postojane pjene, ugodne reskosti specifičnog gorkastog okusa, ugodne hmeljne arome.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2176/main/9e1e-3739-0-2-800x1200.jpg",
+      "id": 221
+    },
+    {
+      "name": "Istarsko Muškat Gambrinus svijetlo pivo",
+      "desc": "Po prvi puta na hrvatskom tržištu možete uživati u pivskom pjenušcu. Spoj Istarskog piva i slatkost muškata daju zanimljivu kombinaciju za sva osjetila. Natočite li u čašu pivski šampanjac uživat ćete u prekrasnoj aromi mirisa muškata, osjetiti svu puninu okusa piva i slatkoću muškata te vidjeti perlanje mjehurica C02 koji daju potrebnu notu reskosti. Počastite sebe i druge čašom pivskog šampanjca!",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2181/main/de3c-3738-0-2-800x1200.jpg",
+      "id": 222
+    },
+    {
+      "name": "Kaj-el pivo",
+      "desc": "S imenom koje je oda najboljem lepom dečku Kal-Elu – Supermenu uz dodatak sveprisutnom KAJ-u. Američki klasik, prvo je ale pivo Lepi Dečki, na sceni od 2016. Balansirani slatko-gorki bakreni ale, blagih citrusno-hmeljnih nota. Idealni početak za ulaz u svijet craft piva.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/3001-4000/3860/main/9476-5352-0-2-800x1200.jpg",
+      "id": 223
+    },
+    {
+      "name": "Karlovačko Crno tamno pivo",
+      "desc": "Karlovačko Crno je pivo puna i profinjena okusa zaokruženog bogatom pjenom. Za njegovu proizvodnju koriste se čak tri vrste slada: svijetli, prženi karamelni te prženi tamni ječmeni slad.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2144/main/4a37-01807-0-2-800x1200.jpg",
+      "id": 224
+    },
+    {
+      "name": "Karlovačko svijetlo pivo",
+      "desc": "Karlovačko je lager pivo kojeg obilježava zlatno-žuta boja i osvježavajuće gorak okus. Posebno je po skladnoj aromi i punoći okusa.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2123/main/3412-0125-0-2-800x1200.jpg",
+      "id": 225
+    },
+    {
+      "name": "Kronenbourg 1664 pšenično pivo",
+      "desc": "Pivo jedinstvenog je okusa prožet naglašenim voćnim notama, magličasto svijetlo žute boje okrunjene bogatom pjenom kremaste teksture",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2152/main/2594-3472-0-2-800x1200.jpg",
+      "id": 226
+    },
+    {
+      "name": "Kuss Die Hand lager pivo",
+      "desc": "Pivo Küss die Hand (Ljubim ruku) oživljava kulturu ophođenja građanskog društva u Zagrebu u velikom dijelu 20. stoljeća. Bio je to uobičajeni pozdrav damama koji su upućivala gospoda finih manira, uz blagi naklon. Pivo Küss die Hand je jedan pristojan helles, vješto skuhan u tradicionalnoj bavarskoj maniri. Svoj dobar odgoj pokazat će svakom ljubitelju lagera kroz izuzetnu pitkost, nježne note slada i nenametljiv biljni karakter plemenitih hmeljeva.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/4001-5000/4792/main/3d5f-8002-0-2-800x1200.jpg",
+      "id": 227
+    },
+    {
+      "name": "Leffe Blonde",
+      "desc": "Autentično samostansko belgijsko pivo stvoreno prije više od 800 godina.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2232/main/7771-01071-0-2-800x1200.jpg",
+      "id": 228
+    },
+    {
+      "name": "Leffe Brown",
+      "desc": "Autentično samostansko belgijsko pivo stvoreno prije više od 800 godina., duboke smeđe boje i punog, slatkog okusa te voćnih aroma.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2233/main/fe36-01072-0-2-800x1200.jpg",
+      "id": 229
+    },
+    {
+      "name": "Lindemans Framboise",
+      "desc": "Ovo delikatno pivo se dobiva dodavanjem 30% svježeg, čistog malinovog soka u Lambic, spontano fermentirano pivo. Fantastične arome maline s notama voćne kiselosti, vrlo elegantno i pjenušavo, no istovremeno i kompleksno. Tamno ružičaste boje s ružičastom pjenom.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/3001-4000/3773/main/89ad-5258-0-2-800x1200.jpg",
+      "id": 230
+    },
+    {
+      "name": "Lindemans Kriek",
+      "desc": "Ovo kiselkasto-slatko pivo je dobiveno dodavanjem svježih belgijskih višanja u hrastove bačve u kojima se nalazilo 6 mjeseci staro, spontano fermentirano pivo (Lambic). Time se potiče nova fermentacija a nakon dodatnih 8-12 mjeseci odležavanja u bačvama, dobiva se ovo delikatno, pjenušavo voćno pivo od višnje. Lindemans Kriek može poslužiti kao fino osvježenje ili aperitiv.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/3001-4000/3774/main/2dbd-5259-0-2-800x1200.jpg",
+      "id": 231
+    },
+    {
+      "name": "Marmun craft",
+      "desc": "Osvježavajuće pivo punog tijela s voćnim mirisima u kojima dominiraju banane i klinčići.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/3001-4000/3986/main/245b-5505-0-2-800x1200.jpg",
+      "id": 232
+    },
+    {
+      "name": "Međimursko Premium Lager pivo",
+      "desc": "Međimursko lager češkog stila, bakrene boje, ugodne gorčine i izražene sladnosti. Pivo za svaki dan, još od 2016.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/3001-4000/3856/main/d522-5351-0-2-800x1200.jpg",
+      "id": 233
+    },
+    {
+      "name": "Nikšićko svijetlo pivo",
+      "desc": "Nikšičko pivo je lager pivo Crnogorske pivovare Trebjesa. Povijest Nikšičkog piva počinje davne 1896. godine. Nikšičko generacijama čuva svoju prepoznatljivu kvalitetu i živi san prvih crnogorskih pivara.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2145/main/eeac-2248-0-2-800x1200.jpg",
+      "id": 234
+    },
+    {
+      "name": "Osječko crni Radler limun",
+      "desc": "Samo jedan je original!\nRadler osvježavajućeg, citrusnog i originalnog okusa spoj je Osječkog crnog piva i prirodnog limunovog soka s niskim udjelom alkohola od svega 2%.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2131/main/9ed2-2984-0-2-800x1200.jpg",
+      "id": 235
+    },
+    {
+      "name": "Osječko svijetlo pivo",
+      "desc": "Svijetlo pivo s 11% ekstrakta (4,5%vol). Osvježavajućeg je okusa karakterističnog za njemačka lager piva. Njegova zlato-žuta boja potječe od slada proizvedenog od ječma s domaćih polja, te najfinijih gorkih i aromatskih sorti hmelja.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2138/main/eeee-01107-0-2-800x1200.jpg",
+      "id": 236
+    },
+    {
+      "name": "Ožujsko Legendarno Lager pivo",
+      "desc": "Ožujsko Legendarno, vrhunsko trosladno pivo zlatne boje, zaokruženog okusa s izraženim sladnim i karamelnim notama blago aromatične gorčine.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2141/main/04f6-7295-0-2-800x1200.jpg",
+      "id": 237
+    },
+    {
+      "name": "Ožujsko Radler pivo grejp",
+      "desc": "Ožujsko radler grejp je jedinstvena kombinacija Ožujskog piva i svježeg voćnog soka koji zajedno pružaju izvrstan osjvježavajući okus uz smanjeni postotak alkohola.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2146/main/eade-01581-0-2-800x1200.jpg",
+      "id": 238
+    },
+    {
+      "name": "Ožujsko Radler pivo limun",
+      "desc": "Jedinstvena kombinacija Ožujskog piva i svježeg voćnog soka koji zajedno pružaju izvrstan osjvježavajući okus uz smanjeni postotak alkohola.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/3001-4000/3910/main/f190-01496-0-2-800x1200.jpg",
+      "id": 239
+    },
+    {
+      "name": "Ožujsko svijetlo pivo",
+      "desc": "Ožujsko pivo je svijetlo i filtrirano lager pivo osvježavajućeg i punog okusa čije su sirovine ječmeni slad, kukuruzna krupica i gorki hmelj.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2122/main/c045-01186-0-2-800x1200.jpg",
+      "id": 240
+    },
+    {
+      "name": "Ožujsko svijetlo pivo",
+      "desc": "Ožujsko pivo je svijetlo i filtrirano lager pivo osvježavajućeg i punog okusa čije su sirovine ječmeni slad, kukuruzna krupica i gorki hmelj.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/4001-5000/4432/main/5867-01185-0-2-800x1200.jpg",
+      "id": 241
+    },
+    {
+      "name": "Pan Pilsner svijetlo pivo",
+      "desc": "Pivo s okusom petka.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/3001-4000/3470/main/b2bd-4543-0-2-800x1200.jpg",
+      "id": 242
+    },
+    {
+      "name": "Pan Radler pivo limun",
+      "desc": "Kombinacija Pan Lagera i voćnog soka limuna.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2137/main/a7cf-01527-0-2-800x1200.jpg",
+      "id": 243
+    },
+    {
+      "name": "Pan Zlatni svijetlo pivo",
+      "desc": "Uz jedinstvenu boju, Pan Zlatni odlikuje se i prepoznatljivom pravom pivskom aromom, uz nešto izraženiju, ali profinjenu gorčinu koja je dobivena uporabom posebne sorte hmelja uzgojene u Hrvatskoj.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2136/main/05a5-01470-0-2-800x1200.jpg",
+      "id": 244
+    },
+    {
+      "name": "Paulaner Original Munchner svijetlo pivo",
+      "desc": "Bistro pivo zlatne boje sa bijelom pjenom osrednje veličine. Aroma slada, malo sjena, malo karamele. Okus slad, lagano slatkasto, lijepo uklopljena lagana gorčina, trunkicu voćni, hmelj.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2150/main/13e5-01223-0-2-800x1200.jpg",
+      "id": 245
+    },
+    {
+      "name": "Paulaner Original Munchner svijetlo pivo",
+      "desc": "Bistro pivo zlatne boje sa bijelom pjenom osrednje veličine. Aroma slada, malo sjena, malo karamele. Okus slad, lagano slatkasto, lijepo uklopljena lagana gorčina, trunkicu voćni, hmelj.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2227/main/d767-02189-0-2-800x1200.jpg",
+      "id": 246
+    },
+    {
+      "name": "Paulaner Weissbier Dunkel tamno pšenično pivo",
+      "desc": "Pšenično pivo s bogatim okusom karameliziranog ječma.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2220/main/f7e8-01324-0-2-800x1200.jpg",
+      "id": 247
+    },
+    {
+      "name": "Paulaner Weissbier pšenično pivo",
+      "desc": "Paulaner Weissbier je mutno pšenično pivo, pri čijem se prvom gutljaju osjećaju lagane note banane, dok znalci raspoznaju finoću manga i ananasa. Pivo je usklađene slatkoće i gorčine, a pravi ljubitelji piva vesele se istančanoj aromi kvasca i predivnom pjenušavom blagom okusu.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2218/main/8622-01225-0-2-800x1200.jpg",
+      "id": 248
+    },
+    {
+      "name": "Paulaner Weissbier pšenično pivo",
+      "desc": "Paulaner Weissbier je mutno pšenično pivo, pri čijem se prvom gutljaju osjećaju lagane note banane, dok znalci raspoznaju finoću manga i ananasa. Pivo je usklađene slatkoće i gorčine, a pravi ljubitelji piva vesele se istančanoj aromi kvasca i predivnom pjenušavom blagom okusu.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2151/main/e636-01279-0-2-800x1200.jpg",
+      "id": 249
+    },
+    {
+      "name": "Peroni Nastro Azzuro svijetlo lager pivo",
+      "desc": "Izvanredno pivo Peroni Nastro Azzurro prvi put je skuhano u Rimu 1963. godine, iste godine kada je talijanski stil zadobio svjetsku pozornost objavljivanjem filma \"La Dolce Vita\". Od tada se Peroni Nastro Azurro u Italiji priprema po originalnoj recepturi koristeći najkvalitetnije sastojke: najfiniji ječam i jedinstvenu mješavinu talijanskog slada, kukuruza i hmelja. Peroni Nastro Azzurro, opisan u tri riječi je “svjež, odvažan i bezvremenski”.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/4001-5000/4784/main/824c-7859-0-2-800x1200.jpg",
+      "id": 250
+    },
+    {
+      "name": "Pivionica American Pale Ale",
+      "desc": "Klasična verzija American pale alea jantarne boje, ugodne gorčine i suhog završetka. Klasični hmeljevi Mosaic, Cascade, Chinook i Centenniel daju čitavu lepezu kompleksnih aroma citrusa, borovine, cvijetnih i voćnih aroma.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/3001-4000/3472/main/0950-4745-0-2-800x1200.jpg",
+      "id": 251
+    },
+    {
+      "name": "Pivionica Irish Dry Stout",
+      "desc": "Tradicija i klasika nikad ne izlaze iz mode kad je u pitanju Irski stout. Od početka do kraja slijedili smo isključivo tradiciju i samo tri osnovna sastojka, jer ovaj stil ne ostavlja prostor za eksperimente – suhoća, blaga kiselost prženog ječma i meka kremasta pitkost su odlike koje ga opisuju. Sve ostalo su pogreške. Iznimna jednostavnost ovog stila upisale su ga u vječnost još od nastanka 1759. godine jer nikoga ne ostavlja ravnodušnim.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/3001-4000/3473/main/b84d-4746-0-2-800x1200.jpg",
+      "id": 252
+    },
+    {
+      "name": "Primarius Blagoslov American Pale Ale pivo",
+      "desc": "Blagoslov American Pale Ale pivo, zahmeljeno pale ale pivo, suho i vrlo pitko.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/4001-5000/4653/main/4519-7716-0-2-800x1200.jpg",
+      "id": 253
+    },
+    {
+      "name": "Primarius Cjepivo Placebo Lager pivo",
+      "desc": "Cjepivo Placebo Lager pivo - lagano, osvježavajuće, umjerene gorčine.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/4001-5000/4654/main/3f10-7717-0-2-800x1200.jpg",
+      "id": 254
+    },
+    {
+      "name": "Primarius Cvrkut Hoppy Blond Ale pivo",
+      "desc": "Primarius Cvrkut Hoppy Blond Ale pivo spoj je laganih pilsner nota u aromi s karakteristikama blago zahmeljenijeg blonde ale – sladno, lagano gorko i blago citrusno, osvježavajuće i pitko.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/4001-5000/4760/main/cafe-7987-0-2-800x1200.jpg",
+      "id": 255
+    },
+    {
+      "name": "Primarius Diverzant Ipa pivo",
+      "desc": "Diverzant Ipa pivo, vrlo jako zahmeljeno (dva puta suho hmeljeno) mutno pivo s izraženim aromama četiri vrste hmelja.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/4001-5000/4655/main/7fba-7718-0-2-800x1200.jpg",
+      "id": 256
+    },
+    {
+      "name": "Primarius Katana Ipa pivo",
+      "desc": "Diverzant Ipa pivo, vrlo jako zahmeljeno (dva puta suho hmeljeno) ale pivo s izraženim aromama hmelja.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/4001-5000/4656/main/6f34-7719-0-2-800x1200.jpg",
+      "id": 257
+    },
+    {
+      "name": "Primarius Katapult India Pale Ale pivo",
+      "desc": "Katapult India Pale Ale pivo, jako zahmeljeno jako pivo s cvjetno - agrumastim notama.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/4001-5000/4657/main/91cd-7720-0-2-800x1200.jpg",
+      "id": 258
+    },
+    {
+      "name": "Primarius Ringišpil IPA pivo",
+      "desc": "Ringišpil IPA pivo, jako zahmeljeno India Pale Ale pivo, smanjene količine alkohola, svjetlo s voćno citrusnom aromom hmelja, vrlo pitko.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/4001-5000/4658/main/8884-7721-0-2-800x1200.jpg",
+      "id": 259
+    },
+    {
+      "name": "Primarius Taman Taman English Porter pivo",
+      "desc": "Taman Taman English Porter pivo, suhovoćne i arome tamne čokolade uz lagane kavene arome s biskvitnim notama.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/4001-5000/4659/main/2638-7722-0-2-800x1200.jpg",
+      "id": 260
+    },
+    {
+      "name": "Primarius Zornjak Hoppy Amber Ale pivo",
+      "desc": "Zornjak Hoppy Amber Ale pivo, zahmeljeno i pitko crveno pivo bez pretjeranih karamelnih nota.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/4001-5000/4660/main/c02b-7723-0-2-800x1200.jpg",
+      "id": 261
+    },
+    {
+      "name": "Sarajevsko pivo",
+      "desc": "Sarajevsko je svijetlo lager pivo sa izrazito kristalnom bistrinom i ugodnom, plemenitom gorčinom.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/3001-4000/3667/main/be19-5030-0-2-800x1200.jpg",
+      "id": 262
+    },
+    {
+      "name": "Sierra Nevada Pale Ale",
+      "desc": "Sierra Nevada Pale Ale je perjanica pivovare Sierra Nevada i pionirska interpretacija američkog „pale ale“ stila. To jantarno, izrazito aromatično pivo s bogatom količinom premium Cascade hmelja, finim notama slada i uravnoteženim aromama borovine, cvijeta naranče i grejpa, prave pivoljupce osvaja na prvi gutljaj.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/3001-4000/3775/main/041c-5260-0-2-800x1200.jpg",
+      "id": 263
+    },
+    {
+      "name": "St Martins's pivo",
+      "desc": "Pivo u kolsh stilu, nastalo u suradnji s Lifeclass resortom Sv. Martin, ubrzo je postalo njihovo kućno pivo i omiljeno ljetno pivo diljem Hrvatske. Ljetno, pitko, lagano i osvježavajuće.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/3001-4000/3859/main/7203-5355-0-2-800x1200.jpg",
+      "id": 264
+    },
+    {
+      "name": "Stari Lisac svijetlo pivo",
+      "desc": "Jabukovača Stari lisac je alkoholno piće napravljeno od sočnih jabuka. Ima osvježavajuć okus i vrlo je pitak. Samo pažljivo odabrane, najkvalitetnije jabuke dovoljno su dobre za Starog lisca.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/3001-4000/3496/main/2410-2634-0-2-800x1200.jpg",
+      "id": 265
+    },
+    {
+      "name": "Staročeško lager svijetlo pivo",
+      "desc": "Naziv piva Staročeško prvi se put počeo upotrebljavati 1893. godine, tijekom vlasništva građana Polaka, Crnera i Dobranovića i to za „Staročeško zimsko pivo“ koje se istakalo iz drvene bačve. Osnovne su karakteristike Staročeškog piva sadržaj ekstrakta u osnovnoj sladovini 12%, volumni udio alkohola 4,8%, zlatnožuta boja i izraženija gorčina (25 jedinica gorčine).",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2142/main/cd53-7127-0-2-800x1200.jpg",
+      "id": 266
+    },
+    {
+      "name": "Staropramen Praha",
+      "desc": "Originalan kao Prag. Osvježavajuć kao pilsner lager. Praha je lagano pilsner lager pivo bogatog okusa. Odlikuje ga iznimna svježina, uravnotežena srednja punoća i blagi gorki okus koji polagano i ugodno nestaje, te udio alkohola od 4%. Praha je spoj tradicije i inovativnosti te rezultat odvažne ideje.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/3001-4000/3913/main/9ec6-5466-0-2-800x1200.jpg",
+      "id": 267
+    },
+    {
+      "name": "Staropramen svijetlo pivo",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/4001-5000/4437/main/f6a9-01895-0-2-800x1200.jpg",
+      "id": 268
+    },
+    {
+      "name": "Stella Artois svijetlo pivo",
+      "desc": "Stella Artois je premium svijetlo lager pivo. Tradicija proizvodnje seže u daleku 1366. godinu, a recept kvalitete i danas se čuva u rodnom Leuvenu, u Belgiji.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2147/main/4422-010149-0-2-800x1200.jpg",
+      "id": 269
+    },
+    {
+      "name": "To je vuk",
+      "desc": "Session IPA koje je od eksperimenta postala stalni dio naše postave. Izražene arome tropskog voće, citrusa i kokosa koje je proizveo slovenski hit hmelj Styrian Wolf čine ovo pivo svačijim favoritom.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/4001-5000/4153/main/e936-6011-0-2-800x1200.jpg",
+      "id": 270
+    },
+    {
+      "name": "Tovar craft",
+      "desc": "Izuzetno pitko i osvježavajuće svijetlo pivo, balansirane gorčine u kojem plemeniti češki hmelj Saaz dolazi do izražaja.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/3001-4000/3985/main/bae2-5504-0-2-800x1200.jpg",
+      "id": 271
+    },
+    {
+      "name": "Tuborg Green svijetlo pivo",
+      "desc": "Tuborg je visokokvalitetno, blago i pitko pivo, sa smanjenim volumnim udjelom alkohola.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2173/main/8f02-01753-0-2-800x1200.jpg",
+      "id": 272
+    },
+    {
+      "name": "Tuborg Green svijetlo pivo",
+      "desc": "Tuborg je visokokvalitetno, blago i pitko pivo, sa smanjenim volumnim udjelom alkohola.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2135/main/4d13-01221-0-2-800x1200.jpg",
+      "id": 273
+    },
+    {
+      "name": "Union svijetlo pivo",
+      "desc": "Union je svijetlo lager pivo zlatnocrvene boje. Karatkterizira ga pun okus sa srednje izraženom gorčinom.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2126/main/8046-010191-0-2-800x1200.jpg",
+      "id": 274
+    },
+    {
+      "name": "Varionica Deep Dive svijetlo pivo",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2242/main/22b8-4395-0-2-800x1200.jpg",
+      "id": 275
+    },
+    {
+      "name": "Varionica Neon Stout",
+      "desc": "Neon stout je tamno ale pivo, punog tijela s naglašenim aromama kave i čokolade. Laganu notu daju mu žitarice koje su dodane uz šest vrsta sladova.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2213/main/7b8f-010147-0-2-800x1200.jpg",
+      "id": 276
+    },
+    {
+      "name": "Varionica Pale Ale",
+      "desc": "Pale Ale je pivo koje miriše na citruse i borovinu, punog okusa i jantarne boje. Posebno biranom kombinacijom sladova i američkih sorti hmelja napravljeno je pivo bogatog okusa, voćnog mirisa i jantarne boje. Dodatnim suhim hmeljenjem naglašena je svježina hmelja te aroma citrusa i borovine. Pale Ale je osvojio duplo zlato na prestižnom natjecanju European Beer Challengeu 2020. godine na kojem je sudjelovalo preko 1000 piva iz 39 zemalja. Zlatni status je potvrdio i iduće godine na Asia Beer Challengeu 2021. kada je nagrađen zlatnom medaljom.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2214/main/c24a-02005-0-2-800x1200.jpg",
+      "id": 277
+    },
+    {
+      "name": "Varionica Pop lager",
+      "desc": "Kao predstavnik općepopularnog i masovno prihvaćenog minhenskog helles stila, Pop!Lager će vam se, poput umjetnosti kojom je inspiriran, uvući u svakodnevan život i dati mu jednu novu razinu pitkosti. Osvježavajuće pivo mekane gorčine.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/3001-4000/3535/main/354b-4762-0-2-800x1200.jpg",
+      "id": 278
+    },
+    {
+      "name": "Varionica Siesta Session Ipa",
+      "desc": "Bogato zahmeljena lagana IPA svježih citrusnih aroma i zaokruženog okusa.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2217/main/802d-3282-0-2-800x1200.jpg",
+      "id": 279
+    },
+    {
+      "name": "Vragec Session IPA pivo",
+      "desc": "VRAGEC Session IPA zavodljivom crvenom bojom, raskošima hmeljnih aroma, putenosti okusa pri svakom gutljaju vraća u vrijeme sjaja crvenih svjetiljki u Tkalčićevoj ulici. VRAGEC poziva na uživanje bez grižnje savjesti.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/4001-5000/4777/main/71c4-7999-0-2-800x1200.jpg",
+      "id": 280
+    },
+    {
+      "name": "Zlatni Medvjed",
+      "desc": "Svijetlo pivo zlatnožute boje, osvježavajućeg okusa i arome s ugodnom gorčinom.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2183/main/c538-3418-0-2-800x1200.jpg",
+      "id": 281
+    },
+    {
+      "name": "Zlatni Medvjed",
+      "desc": "Svijetlo pivo zlatnožute boje, osvježavajućeg okusa i arome s ugodnom gorčinom.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2192/main/8d2a-01995-0-2-800x1200.jpg",
+      "id": 282
+    },
+    {
+      "name": "Zlatorog svijetlo pivo",
+      "desc": "Laško Zlatorog je svijetlo pivo specifičnog okusa, bogate pjene i karakteristične gorčine, što se postiže korištenjem svjetski poznatih slovenskih sorti hmelja. Uz korištenje najboljih sirovina i najnovijih tehničkih dostignuća priprema ga se prema tradicionalnoj recepturi koja se nije mijenjala desetljećima.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2133/main/2476-01076-0-2-800x1200.jpg",
+      "id": 283
+    },
+    {
+      "name": "Zmajsko Pale Ale pivo",
+      "desc": "Pale Ale prepoznatljiv je predstavnik stila American Pale Ale. Odlikuje se uravnoteženim sladnim i hmeljnim notama, punim tijelom i egzotičnim aromama manga i grejpa.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/4001-5000/4664/main/853b-7480-0-2-800x1200.jpg",
+      "id": 284
+    },
+    {
+      "name": "Zmajsko Pils Lager pivo",
+      "desc": "Pils je zmajska verzija najpopularnijeg pivskog stila, lagera. Tajna njegove pitkosti je savršen omjer svježine i gorčine, cvjetnih aroma hmelja i naglašenih sladnih nota – dobivenih od ječma okupanog slavonskim suncem.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/4001-5000/4665/main/cbb9-7481-0-2-800x1200.jpg",
+      "id": 285
+    },
+    {
+      "name": "Zmajsko Pivo Pale Ale",
+      "desc": "Kombinacijom četiriju sorti hmelja iz Novoga svijeta dobili smoosvježavajuće mirise manga i citrusa karakterističnog za ovo pivo punog tijela i ugodne gorčine.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2194/main/c293-01849-0-2-800x1200.jpg",
+      "id": 286
+    },
+    {
+      "name": "Zmajsko Pivo Pils",
+      "desc": "Pils krase savršen omjer svježine i gorčine, cvjetne arome hmelja i naglašene sladne note dobivene od ječma okupanog slavonskim suncem.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/3001-4000/3458/main/fd26-4561-0-2-800x1200.jpg",
+      "id": 287
+    },
+    {
+      "name": "Zmajsko Pivo Porter",
+      "desc": "Tamna čokolada, kava, suho voće i karamela. Ne, to nisu sastojci tvog omiljenog kolača! To su mirisi i okusi ovog jakog i skladnog piva klasičnog engleskog stila.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2195/main/1035-01850-0-2-800x1200.jpg",
+      "id": 288
+    },
+    {
+      "name": "Zmajsko Pozoj",
+      "desc": "Puno hmelja i veći udio alkohola čuvali su pivo na dugim plovidbama iz Engleske prema Indiji. Tako je nastao India pale ale. Snašna gorčina hmelja zmajski će ugristi tvoje nepce, a nos preplaviti aromama grejpa. Pozoj! Hmeljna bomba!",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/2001-3000/2238/main/00a9-010219-0-2-800x1200.jpg",
+      "id": 289
+    },
+    {
+      "name": "Zmajsko Therapy",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/3001-4000/3514/main/74f4-4839-0-2-800x1200.jpg",
+      "id": 290
+    },
+    {
+      "name": "Zmajsko Therapy session IPA pivo",
+      "desc": "Therapy je predstavnik novijega pivskog stila Session IPA. Odlikuje se bogatstvom osvježavajućih hmeljnih aroma (grejp, naranča, ananas i borovina) te niskim udjelom alkohola u volumenu.",
+      "image_url": "https://webshop.rotodinamic.hr/image/cache/cache/4001-5000/4667/main/fba6-7482-0-2-800x1200.jpg",
+      "id": 291
     }
   ]
 }
