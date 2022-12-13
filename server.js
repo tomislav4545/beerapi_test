@@ -8,3 +8,13 @@ server.use(middlewares);
 server.use(router);
 
 server.listen(port);
+
+router.render = function (req, res) {
+  if (req.url === '/beer') {
+    res.jsonp({
+      beer: res.locals.data
+    })
+  } else {
+    res.jsonp(res.locals.data)
+  }
+}
