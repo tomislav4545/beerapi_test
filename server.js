@@ -11,16 +11,7 @@ server.listen(port);
 
 router.render = (req, res) => {
   res.jsonp({
-    data: res.locals.data
+    data: [res.locals.data]
   })
 }
 
-router.render = function (req, res) {
-  if (req.url === '/posts') {
-    res.jsonp({
-      posts: res.locals.data
-    })
-  } else {
-    res.jsonp(res.locals.data)
-  }
-}
