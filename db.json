@@ -1304,11 +1304,13 @@
     },
     {
       "name": "HP Gold lager pivo",
+	  "desc": "Munich Gold počinje s punoćom okusa, dok kasnije dolazi nešto više gorka nota koja završava u pikantnom završetku. Pravi osjet okusa za istinske pivske znalce! Hacker-Pschorr je jedna od najpovjesnijih pivovara na svijetu i skuhala je pivo za prvi Oktoberfest u Münchenu. Skuhano u skladu s njemačkim zakonom o čistoći, ovo pivo je 5,5% zlatni lager s lijepom aromom kruha s rubom poput limuna. Ima prekrasan gladak osjećaj i oštar hmeljasti završetak.",
       "image": "https://images2.imgbox.com/0f/73/amNloSIw_o.jpg",
       "id": 218
     },
     {
       "name": "HP Weiss pšenično pivo",
+	  "desc": "Predivno osvježavajuće, arome voćna i citrusa u pratnji fine, osebujne kiselosti. Lagana slatkoća banane i meda topi se na jeziku, zajedno s blago gorkom, malo pikantnom notom muškatnog oraščića. Hacker-Pschorr je jedna od najpovjesnijih pivovara na svijetu i skuhala je pivo za prvi Oktoberfest u Münchenu. Skuhano u skladu s njemačkim zakonom o čistoći, ovo pivo je 5,5% zlatni lager s lijepom aromom kruha s rubom poput limuna. Ima prekrasan gladak osjećaj i oštar hmeljasti završetak.",
       "image": "https://images2.imgbox.com/ab/2c/xCM3dO0f_o.jpg",
       "id": 219
     },
@@ -1602,6 +1604,7 @@
     },
     {
       "name": "Staropramen svijetlo pivo",
+	  "desc":"Staropramen je premium češki lager iz zlatnog Praga gdje se prema originalnoj recepturi od biranih sastojaka proizvodi s strašću već 150 godina. Pivoljupcima pruža u potpunosti zaokružen okus šireći jedinstveni duh Praga diljem svijeta.",
       "image": "https://images2.imgbox.com/b5/97/uplQ0CR0_o.jpg",
       "id": 268
     },
@@ -1643,6 +1646,7 @@
     },
     {
       "name": "Varionica Deep Dive svijetlo pivo",
+	  "desc": "Duboko udahnite, a potom zaronite u punoću okusa i mirisa nove IPAe. Vrlo brzo ćete se naći u neodoljivom vrtlogu njene zavodljive pitkosti i uživanja u mekim i voćnim notama američkih hmeljeva.",
       "image": "https://images2.imgbox.com/29/65/cB5iYqfJ_o.jpg",
       "id": 275
     },
@@ -1732,6 +1736,7 @@
     },
     {
       "name": "Zmajsko Therapy",
+	  "desc": "Therapy je predstavnik novijega pivskog stila Session IPA. Odlikuje se bogatstvom osvježavajućih hmeljnih aroma (grejp, naranča, ananas i borovina) te niskim udjelom alkohola u volumenu.",
       "image": "https://images2.imgbox.com/98/d0/o5Kwm4GQ_o.jpg",
       "id": 290
     },
